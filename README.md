@@ -1,4 +1,4 @@
-.. image:: https://raw.githubusercontent.com/instaloader/instaloader/master/docs/logo_heading.png
+gunjan_bhade__.. image:: https://raw.githubusercontent.com/instaloader/instaloader/master/docs/logo_heading.png
 
 .. badges-start
 
